@@ -5,12 +5,12 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 brunner: a skos:ConceptScheme ;
-  dct:title "Brunner Thesaurus"@de,
-  dct:creator <https://orcid.org/0000-0002-4711-5759>,
+  dct:title "Brunner Thesaurus"@de ;
+  dct:creator <https://orcid.org/0000-0002-4711-5759> ;
   dct:created "2021-11-30"^^xsd:date ;
   dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
   skos:hasTopConcept brunner:id0001 .
 
-brunner:id0001 a skos:Concept .
-  skos:prefLabel "Arbeit"@de ,
+brunner:id0001 a skos:Concept ;
+  skos:prefLabel "Arbeit"@de ;
   skos:topConceptof brunner: .
