@@ -11,4 +11,6 @@ brunner: a skos:ConceptScheme ;
   dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
   skos:hasTopConcept brunner:id0001 .
 
-brunner:id0001 a skos:Concept.
+brunner:id0001 a skos:Concept .
+  skos:prefLabel "Arbeit"@de ,
+  skos:topConceptof brunner: .
