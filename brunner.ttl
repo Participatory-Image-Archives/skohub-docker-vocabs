@@ -5,12 +5,30 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 brunner: a skos:ConceptScheme ;
-  dct:title "Brunner Thesaurus"@de ;
-  dct:creator <https://orcid.org/0000-0002-4711-5759> ;
+  dct:title "Ernst Brunner Thesaurus"@de ;
+  dct:creator <https://orcid.org/0000-0002-4711-5759>, "Fabienne Lüthi" ;
   dct:created "2021-11-30"^^xsd:date ;
   dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
-  skos:hasTopConcept brunner:id0001 .
+  skos:hasTopConcept brunner:id001, brunner:id002, brunner:id003, brunner:id004, brunner:id005 .
 
-brunner:id0001 a skos:Concept ;
+brunner:id001 a skos:Concept ;
+  skos:prefLabel "Ablegen"@de ;
+  skos:scopeNote "Keine Abzüge"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id002 a skos:Concept ;
+  skos:prefLabel "Anschreiben"@de ;
+  skos:scopeNote "Keine Abzüge"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id003 a skos:Concept ;
   skos:prefLabel "Arbeit"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id004 a skos:Concept ;
+  skos:prefLabel "Brauch"@de ;
+  skos:topConceptof brunner: .
+
+brunner:id005 a skos:Concept ;
+  skos:prefLabel "Ding"@de ;
   skos:topConceptof brunner: .
