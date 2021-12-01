@@ -30,7 +30,7 @@ brunner:id03 a skos:Concept ;
   skos:narrower brunner:id031 .
 
 brunner:id031 a skos:Concept ;
-  skos:prefLabel "Bauer" ;
+  skos:prefLabel "Bauer"@de ;
   skos:inScheme brunner: .
 
 brunner:id04 a skos:Concept ;
