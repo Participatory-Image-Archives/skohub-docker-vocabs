@@ -10,11 +10,9 @@ brunner: a skos:ConceptScheme ;
   dct:created "2021-11-30"^^xsd:date ;
   dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
   skos:hasTopConcept
-    brunner:id01,
-    brunner:id02,
-    brunner:id03,
-    brunner:id04,
-    brunner:id05 .
+    brunner:id01, brunner:id02, brunner:id03, brunner:id04, brunner:id05,
+    brunner:id06, brunner:id07, brunner:id08, brunner:id09, brunner:id10,
+    brunner:id11, brunner:id12, brunner:id13, brunner:id14, brunner:id15, brunner:id16 .
 
 brunner:id01 a skos:Concept ;
   skos:prefLabel "Ablegen"@de ;
