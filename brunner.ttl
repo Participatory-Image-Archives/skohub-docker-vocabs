@@ -26,7 +26,13 @@ brunner:id02 a skos:Concept ;
 
 brunner:id03 a skos:Concept ;
   skos:prefLabel "Arbeit"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id031 .
+
+brunner:id031 a skos:Concept ;
+  skos:prefLabel "Bauer" ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03 .
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
