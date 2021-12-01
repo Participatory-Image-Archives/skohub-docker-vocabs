@@ -6,6 +6,11 @@
   "prefLabel": {
     "de": "Arbeit"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid031"
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
