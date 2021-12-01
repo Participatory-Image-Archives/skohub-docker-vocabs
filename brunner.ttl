@@ -31,7 +31,8 @@ brunner:id03 a skos:Concept ;
 
 brunner:id031 a skos:Concept ;
   skos:prefLabel "Bauer"@de ;
-  skos:inScheme brunner: .
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03 .
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
