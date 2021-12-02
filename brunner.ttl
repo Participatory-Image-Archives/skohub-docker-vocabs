@@ -33,25 +33,143 @@ brunner:id031 a skos:Concept ;
   skos:prefLabel "Bauer"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 ;
-  skos:narrower brunner:id0311, brunner:id0312, brunner:id0313, brunner:id0314 .
+  skos:narrower brunner:id03101, brunner:id03102, brunner:id03103, brunner:id03104,
+                brunner:id03105, brunner:id03106, brunner:id03107, brunner:id03108,
+                brunner:id03109, brunner:id03110, brunner:id03111, brunner:id03112,
+                brunner:id03113, brunner:id03114, brunner:id03115, brunner:id03116,
+                brunner:id03117, brunner:id03118, brunner:id03119, brunner:id03120,
+                brunner:id03121, brunner:id03122, brunner:id03123, brunner:id03124,
+                brunner:id03125, brunner:id03126 .
 
-brunner:id0311 a skos:Concept ;
+brunner:id03101 a skos:Concept ;
   skos:prefLabel "Wässern"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id031 .
 
-brunner:id0312 a skos:Concept ;
+brunner:id03102 a skos:Concept ;
   skos:prefLabel "Heu"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id031 .
 
-brunner:id0313 a skos:Concept ;
+brunner:id03103 a skos:Concept ;
   skos:prefLabel "Garn"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id031 .
 
-brunner:id0314 a skos:Concept ;
+brunner:id03104 a skos:Concept ;
   skos:prefLabel "Backen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03105 a skos:Concept ;
+  skos:prefLabel "Milch"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03106 a skos:Concept ;
+  skos:prefLabel "Aprikosen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03107 a skos:Concept ;
+  skos:prefLabel "Obst"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03108 a skos:Concept ;
+  skos:prefLabel "Wein"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03109 a skos:Concept ;
+  skos:prefLabel "Hopfen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03110 a skos:Concept ;
+  skos:prefLabel "Tabak"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03111 a skos:Concept ;
+  skos:prefLabel "Blakten"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03112 a skos:Concept ;
+  skos:prefLabel "Streue"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03113 a skos:Concept ;
+  skos:prefLabel "Haag"@de ;
+  skos:scopeNote "'Haag' durchgestrichen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03114 a skos:Concept ;
+  skos:prefLabel "Wäsche"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03115 a skos:Concept ;
+  skos:prefLabel "Düngen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03116 a skos:Concept ;
+  skos:prefLabel "Tier"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03117 a skos:Concept ;
+  skos:prefLabel "Metzgen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03118 a skos:Concept ;
+  skos:prefLabel "Verstellen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03119 a skos:Concept ;
+  skos:prefLabel "Zug"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03120 a skos:Concept ;
+  skos:prefLabel "Schafmist als Brennstoff"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03121 a skos:Concept ;
+  skos:prefLabel "Landdienst"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03122 a skos:Concept ;
+  skos:prefLabel "Spinnen"@de ;
+  skos:scopeNote "'Spinnen' durchgestrichen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03123 a skos:Concept ;
+  skos:prefLabel "Dörrfutter"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03124 a skos:Concept ;
+  skos:prefLabel "Mist"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03125 a skos:Concept ;
+  skos:prefLabel "Acker"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id03126 a skos:Concept ;
+  skos:prefLabel "Korn"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id031 .
 
