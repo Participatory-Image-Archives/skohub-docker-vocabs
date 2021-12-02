@@ -27,7 +27,7 @@ brunner:id02 a skos:Concept ;
 brunner:id03 a skos:Concept ;
   skos:prefLabel "Arbeit"@de ;
   skos:topConceptOf brunner: ;
-  skos:narrower brunner:id031 .
+  skos:narrower brunner:id031, brunner:id032 .
 
 brunner:id031 a skos:Concept ;
   skos:prefLabel "Bauer"@de ;
@@ -172,6 +172,43 @@ brunner:id03126 a skos:Concept ;
   skos:prefLabel "Korn"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id031 .
+
+brunner:id032 a skos:Concept ;
+  skos:prefLabel "Wald"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03 ;
+  skos:narrower brunner:id03201, brunner:id03202, brunner:id03203, brunner:id03204,
+                brunner:id03205, brunner:id03206 .
+
+brunner:id03201 a skos:Concept ;
+  skos:prefLabel "Fällen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id032 .
+
+brunner:id03202 a skos:Concept ;
+  skos:prefLabel "Rüsten"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id032 .
+
+brunner:id03203 a skos:Concept ;
+  skos:prefLabel "Fuhre"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id032 .
+
+brunner:id03204 a skos:Concept ;
+  skos:prefLabel "Flösser"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id032 .
+
+brunner:id03205 a skos:Concept ;
+  skos:prefLabel "Köhler"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id032 .
+
+brunner:id03206 a skos:Concept ;
+  skos:prefLabel "Losholzet"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id032 .
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
