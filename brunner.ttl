@@ -32,7 +32,28 @@ brunner:id03 a skos:Concept ;
 brunner:id031 a skos:Concept ;
   skos:prefLabel "Bauer"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 .
+  skos:broader brunner:id03 ;
+  skos:narrower brunner:id0311, brunner:id0312, brunner:id0313, brunner:id0314 .
+
+brunner:id0311 a skos:Concept ;
+  skos:prefLabel "Wässern"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id0312 a skos:Concept ;
+  skos:prefLabel "Heu"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id0313 a skos:Concept ;
+  skos:prefLabel "Garn"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
+
+brunner:id0314 a skos:Concept ;
+  skos:prefLabel "Backen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id031 .
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
