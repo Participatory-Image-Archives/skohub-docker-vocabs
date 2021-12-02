@@ -6,6 +6,32 @@
   "prefLabel": {
     "de": "Bauer"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid0311",
+      "prefLabel": {
+        "de": "Wässern"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid0312",
+      "prefLabel": {
+        "de": "Heu"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid0313",
+      "prefLabel": {
+        "de": "Garn"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid0314",
+      "prefLabel": {
+        "de": "Backen"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/brunnerid03",
     "prefLabel": {

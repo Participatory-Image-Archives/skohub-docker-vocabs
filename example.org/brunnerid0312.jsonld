@@ -1,41 +1,15 @@
 {
-  "id": "https://example.org/brunnerid031",
+  "id": "https://example.org/brunnerid0312",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid031",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid031",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid0312",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid0312",
   "prefLabel": {
-    "de": "Bauer"
+    "de": "Heu"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/brunnerid0311",
-      "prefLabel": {
-        "de": "Wässern"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid0312",
-      "prefLabel": {
-        "de": "Heu"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid0313",
-      "prefLabel": {
-        "de": "Garn"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid0314",
-      "prefLabel": {
-        "de": "Backen"
-      }
-    }
-  ],
   "broader": {
-    "id": "https://example.org/brunnerid03",
+    "id": "https://example.org/brunnerid031",
     "prefLabel": {
-      "de": "Arbeit"
+      "de": "Bauer"
     }
   },
   "inScheme": {
