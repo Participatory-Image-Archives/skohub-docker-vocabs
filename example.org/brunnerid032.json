@@ -1,33 +1,60 @@
 {
-  "id": "https://example.org/brunnerid03",
+  "id": "https://example.org/brunnerid032",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid032",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid032",
   "prefLabel": {
-    "de": "Arbeit"
+    "de": "Wald"
   },
   "narrower": [
     {
-      "id": "https://example.org/brunnerid031",
+      "id": "https://example.org/brunnerid03201",
       "prefLabel": {
-        "de": "Bauer"
+        "de": "Fällen"
       }
     },
     {
-      "id": "https://example.org/brunnerid032",
+      "id": "https://example.org/brunnerid03202",
       "prefLabel": {
-        "de": "Wald"
+        "de": "Rüsten"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03203",
+      "prefLabel": {
+        "de": "Fuhre"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03204",
+      "prefLabel": {
+        "de": "Flösser"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03205",
+      "prefLabel": {
+        "de": "Köhler"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03206",
+      "prefLabel": {
+        "de": "Losholzet"
       }
     }
   ],
+  "broader": {
+    "id": "https://example.org/brunnerid03",
+    "prefLabel": {
+      "de": "Arbeit"
+    }
+  },
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
       "de": "Ernst Brunner Thesaurus"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example.org/brunner"
   },
   "@context": {
     "@version": 1.1,

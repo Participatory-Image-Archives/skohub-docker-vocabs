@@ -12,6 +12,12 @@
       "prefLabel": {
         "de": "Bauer"
       }
+    },
+    {
+      "id": "https://example.org/brunnerid032",
+      "prefLabel": {
+        "de": "Wald"
+      }
     }
   ],
   "inScheme": {
