@@ -215,57 +215,57 @@ brunner:id03206 a skos:Concept ;
 brunner:id033 a skos:Concept ;
   skos:prefLabel "Industrie"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id034 a skos:Concept ;
   skos:prefLabel "Technik"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id035 a skos:Concept ;
   skos:prefLabel "Bau"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id036 a skos:Concept ;
   skos:prefLabel "Strasse"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id037 a skos:Concept ;
   skos:prefLabel "Bergwerk"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id038 a skos:Concept ;
   skos:prefLabel "Labor"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id039 a skos:Concept ;
   skos:prefLabel "Künstler"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id03a a skos:Concept ;
   skos:prefLabel "Verkauf"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id03b a skos:Concept ;
   skos:prefLabel "Haus"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id03c a skos:Concept ;
   skos:prefLabel "Garten"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id03d a skos:Concept ;
   skos:prefLabel "Büro"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id03 ;
+  skos:broader brunner:id03 .
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
