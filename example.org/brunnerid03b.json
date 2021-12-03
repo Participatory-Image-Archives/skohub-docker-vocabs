@@ -1,99 +1,22 @@
 {
-  "id": "https://example.org/brunnerid03",
+  "id": "https://example.org/brunnerid03b",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03b",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03b",
   "prefLabel": {
-    "de": "Arbeit"
+    "de": "Haus"
   },
-  "narrower": [
-    {
-      "id": "https://example.org/brunnerid031",
-      "prefLabel": {
-        "de": "Bauer"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid032",
-      "prefLabel": {
-        "de": "Wald"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid033",
-      "prefLabel": {
-        "de": "Industrie"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid034",
-      "prefLabel": {
-        "de": "Technik"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid035",
-      "prefLabel": {
-        "de": "Bau"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid036",
-      "prefLabel": {
-        "de": "Strasse"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid037",
-      "prefLabel": {
-        "de": "Bergwerk"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid038",
-      "prefLabel": {
-        "de": "Labor"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid039",
-      "prefLabel": {
-        "de": "Künstler"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid03a",
-      "prefLabel": {
-        "de": "Verkauf"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid03b",
-      "prefLabel": {
-        "de": "Haus"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid03c",
-      "prefLabel": {
-        "de": "Garten"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid03d",
-      "prefLabel": {
-        "de": "Büro"
-      }
+  "broader": {
+    "id": "https://example.org/brunnerid03",
+    "prefLabel": {
+      "de": "Arbeit"
     }
-  ],
+  },
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
       "de": "Ernst Brunner Thesaurus"
     }
-  },
-  "topConceptOf": {
-    "id": "https://example.org/brunner"
   },
   "@context": {
     "@version": 1.1,
