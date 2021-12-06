@@ -17,11 +17,15 @@ brunner: a skos:ConceptScheme ;
 brunner:id01 a skos:Concept ;
   skos:prefLabel "Ablegen"@de ;
   skos:scopeNote "Keine Abzüge"@de ;
+  skos:scopeNote "Dickere Zwischenkartons für Karteisystem"@de ;
   skos:topConceptOf brunner: .
 
 brunner:id02 a skos:Concept ;
   skos:prefLabel "Anschreiben"@de ;
   skos:scopeNote "Keine Abzüge"@de ;
+  skos:scopeNote "Schachtel 1: Karteikarten, tw. gestempelt, vorbereitet"@de ;
+  skos:scopeNote "Schachtel 2: kleine Karteikarten"@de ;
+  skos:scopeNote "Schachtel 3: leer"@de ;
   skos:topConceptOf brunner: .
 
 brunner:id03 a skos:Concept ;
