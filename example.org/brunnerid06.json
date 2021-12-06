@@ -6,6 +6,110 @@
   "prefLabel": {
     "de": "Ding"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid06a",
+      "prefLabel": {
+        "de": "Schnee"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06b",
+      "prefLabel": {
+        "de": "Wasser"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06c",
+      "prefLabel": {
+        "de": "Wolke"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06d",
+      "prefLabel": {
+        "de": "Blume"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06e",
+      "prefLabel": {
+        "de": "Frucht"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06f",
+      "prefLabel": {
+        "de": "Stein"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06g",
+      "prefLabel": {
+        "de": "Holz"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06h",
+      "prefLabel": {
+        "de": "Schrift"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06i",
+      "prefLabel": {
+        "de": "Technik"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06j",
+      "prefLabel": {
+        "de": "Plastik"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06k",
+      "prefLabel": {
+        "de": "Reproduktion"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06l",
+      "prefLabel": {
+        "de": "Nahrung"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06m",
+      "prefLabel": {
+        "de": "Haag"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06n",
+      "prefLabel": {
+        "de": "Denkzeichen"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06o",
+      "prefLabel": {
+        "de": "Architektur"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06p",
+      "prefLabel": {
+        "de": "Schild"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid06q",
+      "prefLabel": {
+        "de": "Gerät"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
