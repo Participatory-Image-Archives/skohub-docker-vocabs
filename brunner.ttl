@@ -244,26 +244,31 @@ brunner:id038 a skos:Concept ;
 
 brunner:id039 a skos:Concept ;
   skos:prefLabel "Künstler"@de ;
+  skos:scopeNote "Begriff mit Bleistift geschrieben (evtl. andere Schrift?)"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 .
 
 brunner:id03a a skos:Concept ;
   skos:prefLabel "Verkauf"@de ;
+  skos:scopeNote "Begriff mit Bleistift geschrieben (evtl. andere Schrift?)"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 .
 
 brunner:id03b a skos:Concept ;
   skos:prefLabel "Haus"@de ;
+  skos:scopeNote "Begriff mit Bleistift geschrieben (evtl. andere Schrift?)"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 .
 
 brunner:id03c a skos:Concept ;
   skos:prefLabel "Garten"@de ;
+  skos:scopeNote "Begriff mit Bleistift geschrieben (evtl. andere Schrift?)"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 .
 
 brunner:id03d a skos:Concept ;
   skos:prefLabel "Büro"@de ;
+  skos:scopeNote "Begriff mit Bleistift geschrieben (evtl. andere Schrift?)"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 .
 
@@ -271,7 +276,14 @@ brunner:id03e a skos:Concept ;
   skos:prefLabel "Gewerbe"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 ;
-  skos:narrower brunner:id03e01, brunner:id03e02 .
+  skos:narrower brunner:id03e01, brunner:id03e02, brunner:id03e03, brunner:id03e04, brunner:id03e05,
+                brunner:id03e06, brunner:id03e07, brunner:id03e08, brunner:id03e09, brunner:id03e10,
+                brunner:id03e11, brunner:id03e12, brunner:id03e13, brunner:id03e14, brunner:id03e15,
+                brunner:id03e16, brunner:id03e17, brunner:id03e18, brunner:id03e19, brunner:id03e20,
+                brunner:id03e21, brunner:id03e22, brunner:id03e23, brunner:id03e24, brunner:id03e25,
+                brunner:id03e26, brunner:id03e27, brunner:id03e28, brunner:id03e29, brunner:id03e30,
+                brunner:id03e31, brunner:id03e32, brunner:id03e33, brunner:id03e34, brunner:id03e35,
+                brunner:id03e36, brunner:id03e37, brunner:id03e38 .
 
 brunner:id03e01 a skos:Concept ;
   skos:prefLabel "Maurer"@de ;
@@ -280,6 +292,187 @@ brunner:id03e01 a skos:Concept ;
 
 brunner:id03e02 a skos:Concept ;
   skos:prefLabel "Dachdecker"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e03 a skos:Concept ;
+  skos:prefLabel "Maler"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e04 a skos:Concept ;
+  skos:prefLabel "Schlosser"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e05 a skos:Concept ;
+  skos:prefLabel "Kesselschmied"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e06 a skos:Concept ;
+  skos:prefLabel "Wagenschmied"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e07 a skos:Concept ;
+  skos:prefLabel "Hufschmied"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e08 a skos:Concept ;
+  skos:prefLabel "Müller"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e09 a skos:Concept ;
+  skos:prefLabel "Metzger"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e10 a skos:Concept ;
+  skos:prefLabel "Bäcker"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e11 a skos:Concept ;
+  skos:prefLabel "Bäcker"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e12 a skos:Concept ;
+  skos:prefLabel "Fischer"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e13 a skos:Concept ;
+  skos:prefLabel "Käser"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e14 a skos:Concept ;
+  skos:prefLabel "Gerber"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e15 a skos:Concept ;
+  skos:prefLabel "Schuster"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e16 a skos:Concept ;
+  skos:prefLabel "Weber"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e17 a skos:Concept ;
+  skos:prefLabel "Seiler"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e18 a skos:Concept ;
+  skos:prefLabel "Sticker"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e19 a skos:Concept ;
+  skos:prefLabel "Sackdrucker"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e20 a skos:Concept ;
+  skos:prefLabel "Kesselflicker"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e21 a skos:Concept ;
+  skos:prefLabel "Beckihefter"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e22 a skos:Concept ;
+  skos:prefLabel "Seifensieder"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e23 a skos:Concept ;
+  skos:prefLabel "Strahler"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e24 a skos:Concept ;
+  skos:prefLabel "Bürstenbinder"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e25 a skos:Concept ;
+  skos:prefLabel "Scherenschneider"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e26 a skos:Concept ;
+  skos:prefLabel "Säger"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e27 a skos:Concept ;
+  skos:prefLabel "Zimmermann"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e28 a skos:Concept ;
+  skos:prefLabel "Schreiner"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e29 a skos:Concept ;
+  skos:prefLabel "Schindelmacher"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e30 a skos:Concept ;
+  skos:prefLabel "Leitern-Macher"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e31 a skos:Concept ;
+  skos:prefLabel "Spanschachteln-Macher"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e32 a skos:Concept ;
+  skos:prefLabel "Geigenbauer"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e33 a skos:Concept ;
+  skos:prefLabel "Küfer"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e34 a skos:Concept ;
+  skos:prefLabel "Wagner"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e35 a skos:Concept ;
+  skos:prefLabel "Korber"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e36 a skos:Concept ;
+  skos:prefLabel "Rechen-Macher"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e37 a skos:Concept ;
+  skos:prefLabel "Holz-Schnitzer"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e38 a skos:Concept ;
+  skos:prefLabel "Klavierbauer"@de ;
+  skos:scopeNote "andere Schrift?"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03e .
 
