@@ -6,6 +6,56 @@
   "prefLabel": {
     "de": "Sacra"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid13a",
+      "prefLabel": {
+        "de": "Friedhof A-N"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid13b",
+      "prefLabel": {
+        "de": "Friedhof O-Z"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid13c",
+      "prefLabel": {
+        "de": "Kirche"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid13d",
+      "prefLabel": {
+        "de": "Stöckli"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid13e",
+      "prefLabel": {
+        "de": "Feldkreuz"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid13f",
+      "prefLabel": {
+        "de": "Gerät"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid13g",
+      "prefLabel": {
+        "de": "Bild"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid13h",
+      "prefLabel": {
+        "de": "Kloster"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {

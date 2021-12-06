@@ -6,6 +6,74 @@
   "prefLabel": {
     "de": "Tier"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid14a",
+      "prefLabel": {
+        "de": "Vogel"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14b",
+      "prefLabel": {
+        "de": "Insekt"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14c",
+      "prefLabel": {
+        "de": "Wild"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14d",
+      "prefLabel": {
+        "de": "Fisch"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14e",
+      "prefLabel": {
+        "de": "Pferd"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14f",
+      "prefLabel": {
+        "de": "Hund"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14g",
+      "prefLabel": {
+        "de": "Schaf"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14h",
+      "prefLabel": {
+        "de": "Rind"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14i",
+      "prefLabel": {
+        "de": "Ziege"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14j",
+      "prefLabel": {
+        "de": "Katze"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid14k",
+      "prefLabel": {
+        "de": "Schwein"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
