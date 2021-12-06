@@ -806,6 +806,7 @@ brunner:id08e a skos:Concept ;
 
 brunner:id08f a skos:Concept ;
   skos:prefLabel "Schweiz"@de ;
+  skos:scopeNote "ohne: BE, GR, TI, VS"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id08 .
 
@@ -947,6 +948,7 @@ brunner:id09l a skos:Concept ;
 
 brunner:id09m a skos:Concept ;
   skos:prefLabel "[unleserlich/durchgestrichen]"@de ;
+  skos:scopeNote "durchgestrichen: 'Hochzeit', Schachtel kaputt!"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id09 .
 
@@ -967,7 +969,75 @@ brunner:id09p a skos:Concept ;
 
 brunner:id10 a skos:Concept ;
   skos:prefLabel "Militär"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id10a, brunner:id10b, brunner:id10c, brunner:id10d, brunner:id10e,
+                brunner:id10f, brunner:id10g, brunner:id10h, brunner:id10i, brunner:id10j,
+                brunner:id10k, brunner:id10l, brunner:id10m .
+
+brunner:id10a a skos:Concept ;
+  skos:prefLabel "Flab-Batterie 311"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10b a skos:Concept ;
+  skos:prefLabel "Terr.Füs.KP /105"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10c a skos:Concept ;
+  skos:prefLabel "M.S.A."@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10d a skos:Concept ;
+  skos:prefLabel "Ortswehr"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10e a skos:Concept ;
+  skos:prefLabel "Bäcker KP./General"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10f a skos:Concept ;
+  skos:prefLabel "Feldpost"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10g a skos:Concept ;
+  skos:prefLabel "Defile"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10h a skos:Concept ;
+  skos:prefLabel "Andere"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10i a skos:Concept ;
+  skos:prefLabel "Aushebg."@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10j a skos:Concept ;
+  skos:prefLabel "Skiekurs"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10k a skos:Concept ;
+  skos:prefLabel "Mobilisat."@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10l a skos:Concept ;
+  skos:prefLabel "Det. Sedrun"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
+
+brunner:id10m a skos:Concept ;
+  skos:prefLabel "Det. Göschenen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id10 .
 
 brunner:id11 a skos:Concept ;
   skos:prefLabel "Persona"@de ;
