@@ -1046,7 +1046,65 @@ brunner:id11 a skos:Concept ;
 
 brunner:id12 a skos:Concept ;
   skos:prefLabel "Reise und Verkehr"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id12a, brunner:id12b, brunner:id12c, brunner:id12d, brunner:id12e,
+                brunner:id12f, brunner:id12g, brunner:id12h, brunner:id12i, brunner:id12j,
+                brunner:id12k .
+
+brunner:id12a a skos:Concept ;
+  skos:prefLabel "Flugzeug"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12b a skos:Concept ;
+  skos:prefLabel "Schiff"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12c a skos:Concept ;
+  skos:prefLabel "Seil-Bahn"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12d a skos:Concept ;
+  skos:prefLabel "Schiene-Bahn"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12e a skos:Concept ;
+  skos:prefLabel "Wandern"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12f a skos:Concept ;
+  skos:prefLabel "Gasthaus"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12g a skos:Concept ;
+  skos:prefLabel "Dienstmann"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12h a skos:Concept ;
+  skos:prefLabel "Grenzer"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12i a skos:Concept ;
+  skos:prefLabel "Post"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12j a skos:Concept ;
+  skos:prefLabel "Brücke"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
+
+brunner:id12k a skos:Concept ;
+  skos:prefLabel "Strasse"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id12 .
 
 brunner:id13 a skos:Concept ;
   skos:prefLabel "Sacra"@de ;
