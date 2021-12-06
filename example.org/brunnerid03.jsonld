@@ -84,6 +84,12 @@
       "prefLabel": {
         "de": "Büro"
       }
+    },
+    {
+      "id": "https://example.org/brunnerid03e",
+      "prefLabel": {
+        "de": "Gewerbe"
+      }
     }
   ],
   "inScheme": {
