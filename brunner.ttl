@@ -29,7 +29,7 @@ brunner:id03 a skos:Concept ;
   skos:topConceptOf brunner: ;
   skos:narrower brunner:id031, brunner:id032, brunner:id033, brunner:id034, brunner:id035,
                 brunner:id036, brunner:id037, brunner:id038, brunner:id039, brunner:id03a,
-                brunner:id03b, brunner:id03c, brunner:id03d .
+                brunner:id03b, brunner:id03c, brunner:id03d, brunner:id03e .
 
 brunner:id031 a skos:Concept ;
   skos:prefLabel "Bauer"@de ;
@@ -266,6 +266,22 @@ brunner:id03d a skos:Concept ;
   skos:prefLabel "Büro"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 .
+
+brunner:id03e a skos:Concept ;
+  skos:prefLabel "Gewerbe"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03 ;
+  skos:narrower brunner:id03e01, brunner:id03e02 .
+
+brunner:id03e01 a skos:Concept ;
+  skos:prefLabel "Maurer"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
+
+brunner:id03e02 a skos:Concept ;
+  skos:prefLabel "Dachdecker"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03e .
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
