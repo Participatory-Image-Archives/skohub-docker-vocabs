@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Ablegen"
   },
+  "scopeNote": {
+    "de": "Keine Abzüge. Dickere Zwischenkartons für Karteisystem"
+  },
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {

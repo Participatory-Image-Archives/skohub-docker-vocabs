@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Anschreiben"
   },
+  "scopeNote": {
+    "de": "Keine Abzüge. Schachtel 1: Karteikarten, tw. gestempelt, vorbereitet. Schachtel 2: kleine Karteikarten. Schachtel 3: leer"
+  },
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
