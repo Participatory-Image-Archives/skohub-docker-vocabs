@@ -6,6 +6,68 @@
   "prefLabel": {
     "de": "Brauch"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid04a",
+      "prefLabel": {
+        "de": "Religion"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04b",
+      "prefLabel": {
+        "de": "Politik"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04c",
+      "prefLabel": {
+        "de": "Alp"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04d",
+      "prefLabel": {
+        "de": "Tessin"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04e",
+      "prefLabel": {
+        "de": "Spiel"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04f",
+      "prefLabel": {
+        "de": "Sport"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04g",
+      "prefLabel": {
+        "de": "Fest"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04h",
+      "prefLabel": {
+        "de": "Feier"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04i",
+      "prefLabel": {
+        "de": "Tracht"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid04j",
+      "prefLabel": {
+        "de": "Markt"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
