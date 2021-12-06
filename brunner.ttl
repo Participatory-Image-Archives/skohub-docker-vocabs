@@ -633,7 +633,130 @@ brunner:id06q a skos:Concept ;
 
 brunner:id07 a skos:Concept ;
   skos:prefLabel "Haus und Sieldung"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id07a, brunner:id07b, brunner:id07c, brunner:id07d, brunner:id07e,
+                brunner:id07f, brunner:id07g, brunner:id07h, brunner:id07i, brunner:id07j,
+                brunner:id07k, brunner:id07l, brunner:id07m, brunner:id07n, brunner:id07o,
+                brunner:id07p, brunner:id07q, brunner:id07r, brunner:id07s, brunner:id07t,
+                brunner:id07u, brunner:id07v, brunner:id07w .
+
+brunner:id07a a skos:Concept ;
+  skos:prefLabel "Tessin"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07b a skos:Concept ;
+  skos:prefLabel "Bünden"@de ;
+  skos:altLabel "Graubünden"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07c a skos:Concept ;
+  skos:prefLabel "Bern"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07d a skos:Concept ;
+  skos:prefLabel "Uri"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07e a skos:Concept ;
+  skos:prefLabel "Schwyz"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07f a skos:Concept ;
+  skos:prefLabel "Unterwalden"@de ;
+  skos:altLabel "Obwald"@de, "Nidwald"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07g a skos:Concept ;
+  skos:prefLabel "Zug"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07h a skos:Concept ;
+  skos:prefLabel "Luzern"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07i a skos:Concept ;
+  skos:prefLabel "Wallis"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07j a skos:Concept ;
+  skos:prefLabel "Solothurn"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07k a skos:Concept ;
+  skos:prefLabel "Fryburg"@de ;
+  skos:altLabel "Freiburg"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07l a skos:Concept ;
+  skos:prefLabel "Waadt"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07m a skos:Concept ;
+  skos:prefLabel "Neuenburg"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07n a skos:Concept ;
+  skos:prefLabel "Genf"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07o a skos:Concept ;
+  skos:prefLabel "Jura"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07p a skos:Concept ;
+  skos:prefLabel "Basel"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07q a skos:Concept ;
+  skos:prefLabel "Zürich"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07r a skos:Concept ;
+  skos:prefLabel "Aarau"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07s a skos:Concept ;
+  skos:prefLabel "Thurgau"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07t a skos:Concept ;
+  skos:prefLabel "Glarus"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07u a skos:Concept ;
+  skos:prefLabel "St. Gallen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07v a skos:Concept ;
+  skos:prefLabel "Appenzell"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
+
+brunner:id07w a skos:Concept ;
+  skos:prefLabel "Schaffhausen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id07 .
 
 brunner:id08 a skos:Concept ;
   skos:prefLabel "Land und Volk"@de ;
