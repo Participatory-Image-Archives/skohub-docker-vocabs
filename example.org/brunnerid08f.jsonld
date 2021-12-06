@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Schweiz"
   },
+  "scopeNote": {
+    "de": "ohne: BE, GR, TI, VS"
+  },
   "broader": {
     "id": "https://example.org/brunnerid08",
     "prefLabel": {

@@ -6,6 +6,86 @@
   "prefLabel": {
     "de": "Militär"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid10a",
+      "prefLabel": {
+        "de": "Flab-Batterie 311"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10b",
+      "prefLabel": {
+        "de": "Terr.Füs.KP /105"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10c",
+      "prefLabel": {
+        "de": "M.S.A."
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10d",
+      "prefLabel": {
+        "de": "Ortswehr"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10e",
+      "prefLabel": {
+        "de": "Bäcker KP./General"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10f",
+      "prefLabel": {
+        "de": "Feldpost"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10g",
+      "prefLabel": {
+        "de": "Defile"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10h",
+      "prefLabel": {
+        "de": "Andere"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10i",
+      "prefLabel": {
+        "de": "Aushebg."
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10j",
+      "prefLabel": {
+        "de": "Skiekurs"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10k",
+      "prefLabel": {
+        "de": "Mobilisat."
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10l",
+      "prefLabel": {
+        "de": "Det. Sedrun"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid10m",
+      "prefLabel": {
+        "de": "Det. Göschenen"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {

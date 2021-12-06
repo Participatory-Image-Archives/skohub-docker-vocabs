@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "[unleserlich/durchgestrichen]"
   },
+  "scopeNote": {
+    "de": "durchgestrichen: 'Hochzeit', Schachtel kaputt!"
+  },
   "broader": {
     "id": "https://example.org/brunnerid09",
     "prefLabel": {
