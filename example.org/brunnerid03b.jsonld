@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Haus"
   },
+  "scopeNote": {
+    "de": "Begriff mit Bleistift geschrieben (evtl. andere Schrift?)"
+  },
   "broader": {
     "id": "https://example.org/brunnerid03",
     "prefLabel": {
