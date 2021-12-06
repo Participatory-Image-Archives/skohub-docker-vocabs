@@ -772,7 +772,110 @@ brunner:id07w a skos:Concept ;
 
 brunner:id08 a skos:Concept ;
   skos:prefLabel "Land und Volk"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id08a, brunner:id08b, brunner:id08c, brunner:id08d, brunner:id08e,
+                brunner:id08f, brunner:id08g, brunner:id08h, brunner:id08i, brunner:id08j,
+                brunner:id08k, brunner:id08l, brunner:id08m, brunner:id08n, brunner:id08o,
+                brunner:id08p, brunner:id08q .
+
+brunner:id08a a skos:Concept ;
+  skos:prefLabel "Bern"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08b a skos:Concept ;
+  skos:prefLabel "Luzern"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08c a skos:Concept ;
+  skos:prefLabel "Bünden"@de ;
+  skos:altLabel "Graubünden"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08d a skos:Concept ;
+  skos:prefLabel "Wallis"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08e a skos:Concept ;
+  skos:prefLabel "Tessin"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08f a skos:Concept ;
+  skos:prefLabel "Schweiz"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08g a skos:Concept ;
+  skos:prefLabel "Uri"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08h a skos:Concept ;
+  skos:prefLabel "Schwyz"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08i a skos:Concept ;
+  skos:prefLabel "Unterwalden"@de ;
+  skos:altLabel "Obwald"@de, "Nidwald"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08j a skos:Concept ;
+  skos:prefLabel "Zug"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08k a skos:Concept ;
+  skos:prefLabel "Luzern"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08l a skos:Concept ;
+  skos:prefLabel "Solothurn"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08m a skos:Concept ;
+  skos:prefLabel "Fryburg"@de ;
+  skos:altLabel "Freiburg"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08n a skos:Concept ;
+  skos:prefLabel "Waadt"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08o a skos:Concept ;
+  skos:prefLabel "Neuenburg"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08p a skos:Concept ;
+  skos:prefLabel "Genf"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
+
+brunner:id08q a skos:Concept ;
+  skos:prefLabel "Jura"@de ;
+  skos:scopeNote "leer (keine Abzüge)"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id08 .
 
 brunner:id09 a skos:Concept ;
   skos:prefLabel "Milieu"@de ;
