@@ -1,19 +1,31 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix brunner: <https://example.org/brunner> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix schema: <http://schema.org> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 brunner: a skos:ConceptScheme ;
   dct:title "Ernst Brunner Thesaurus"@de ;
-  dct:creator "Julien A. Raemy", "Fabienne Lüthi" ;
+  dct:creator _:author1 , _:author2 ;
   dct:created "2021-11-30"^^xsd:date ;
+  dct:modified "2021-12-06"^^xsd:date ;
   dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
   skos:hasTopConcept
     brunner:id01, brunner:id02, brunner:id03, brunner:id04, brunner:id05,
     brunner:id06, brunner:id07, brunner:id08, brunner:id09, brunner:id10,
     brunner:id11, brunner:id12, brunner:id13, brunner:id14, brunner:id15,
     brunner:id16 .
+
+_:author1 a schema:Person ;
+  schema:givenName "Fabienne" ;
+  schema:familyName "Lüthi" .
+
+_:author2 a schema:Person ;
+  schema:givenName "Julien Antoine" ;
+  schema:familyName "Raemy" ;
+  owl:sameAs <https://orcid.org/0000-0002-4711-5759> .
 
 brunner:id01 a skos:Concept ;
   skos:prefLabel "Ablegen"@de ;
