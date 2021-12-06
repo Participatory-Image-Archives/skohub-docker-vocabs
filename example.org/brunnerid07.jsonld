@@ -6,6 +6,146 @@
   "prefLabel": {
     "de": "Haus und Sieldung"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid07a",
+      "prefLabel": {
+        "de": "Tessin"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07b",
+      "prefLabel": {
+        "de": "Bünden"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07c",
+      "prefLabel": {
+        "de": "Bern"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07d",
+      "prefLabel": {
+        "de": "Uri"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07e",
+      "prefLabel": {
+        "de": "Schwyz"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07f",
+      "prefLabel": {
+        "de": "Unterwalden"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07g",
+      "prefLabel": {
+        "de": "Zug"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07h",
+      "prefLabel": {
+        "de": "Luzern"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07i",
+      "prefLabel": {
+        "de": "Wallis"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07j",
+      "prefLabel": {
+        "de": "Solothurn"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07k",
+      "prefLabel": {
+        "de": "Fryburg"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07l",
+      "prefLabel": {
+        "de": "Waadt"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07m",
+      "prefLabel": {
+        "de": "Neuenburg"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07n",
+      "prefLabel": {
+        "de": "Genf"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07o",
+      "prefLabel": {
+        "de": "Jura"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07p",
+      "prefLabel": {
+        "de": "Basel"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07q",
+      "prefLabel": {
+        "de": "Zürich"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07r",
+      "prefLabel": {
+        "de": "Aarau"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07s",
+      "prefLabel": {
+        "de": "Thurgau"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07t",
+      "prefLabel": {
+        "de": "Glarus"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07u",
+      "prefLabel": {
+        "de": "St. Gallen"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07v",
+      "prefLabel": {
+        "de": "Appenzell"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid07w",
+      "prefLabel": {
+        "de": "Schaffhausen"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
