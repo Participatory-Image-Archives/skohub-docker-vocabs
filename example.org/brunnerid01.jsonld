@@ -6,9 +6,6 @@
   "prefLabel": {
     "de": "Ablegen"
   },
-  "scopeNote": {
-    "de": "Keine Abzüge"
-  },
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {

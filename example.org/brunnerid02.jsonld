@@ -6,9 +6,6 @@
   "prefLabel": {
     "de": "Anschreiben"
   },
-  "scopeNote": {
-    "de": "Keine Abzüge"
-  },
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
