@@ -6,6 +6,14 @@
   "prefLabel": {
     "de": "Wald"
   },
+  "related": [
+    {
+      "id": "https://example.org/brunnerid03b",
+      "prefLabel": {
+        "de": "Wald"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {

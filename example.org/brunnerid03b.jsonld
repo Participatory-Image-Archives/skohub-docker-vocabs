@@ -50,6 +50,14 @@
       "de": "Arbeit"
     }
   },
+  "related": [
+    {
+      "id": "https://example.org/brunnerid16",
+      "prefLabel": {
+        "de": "Wald"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
