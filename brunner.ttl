@@ -190,6 +190,7 @@ brunner:id03a26 a skos:Concept ;
 
 brunner:id03b a skos:Concept ;
   skos:prefLabel "Wald"@de ;
+  skos:related brunner:id16 ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03 ;
   skos:narrower brunner:id03b01, brunner:id03b02, brunner:id03b03, brunner:id03b04,
@@ -1225,4 +1226,5 @@ brunner:id15 a skos:Concept ;
 
 brunner:id16 a skos:Concept ;
   skos:prefLabel "Wald"@de ;
+  skos:related brunner:id03b ;
   skos:topConceptOf brunner: .
