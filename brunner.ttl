@@ -478,7 +478,59 @@ brunner:id03e38 a skos:Concept ;
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id04a, brunner:id04b, brunner:id04c, brunner:id04d, brunner:id04e,
+                brunner:id04f, brunner:id04g, brunner:id04h, brunner:id04i, brunner:id04j .
+
+brunner:id04a a skos:Concept ;
+  skos:prefLabel "Religion"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04b a skos:Concept ;
+  skos:prefLabel "Politik"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04c a skos:Concept ;
+  skos:prefLabel "Alp"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04d a skos:Concept ;
+  skos:prefLabel "Tessin"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04e a skos:Concept ;
+  skos:prefLabel "Spiel"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04f a skos:Concept ;
+  skos:prefLabel "Sport"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04g a skos:Concept ;
+  skos:prefLabel "Fest"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04h a skos:Concept ;
+  skos:prefLabel "Feier"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04i a skos:Concept ;
+  skos:prefLabel "Tracht"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
+
+brunner:id04j a skos:Concept ;
+  skos:prefLabel "Markt"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id04 .
 
 brunner:id05 a skos:Concept ;
   skos:prefLabel "Deutschland, Belgien, Frankreich, Italien"@de ;
