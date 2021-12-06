@@ -4,10 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03c",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03c",
   "prefLabel": {
-    "de": "Garten"
-  },
-  "scopeNote": {
-    "de": "Begriff mit Bleistift geschrieben (evtl. andere Schrift?)"
+    "de": "Industrie"
   },
   "broader": {
     "id": "https://example.org/brunnerid03",

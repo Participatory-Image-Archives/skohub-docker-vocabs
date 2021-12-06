@@ -4,11 +4,46 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03b",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid03b",
   "prefLabel": {
-    "de": "Haus"
+    "de": "Wald"
   },
-  "scopeNote": {
-    "de": "Begriff mit Bleistift geschrieben (evtl. andere Schrift?)"
-  },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid03b01",
+      "prefLabel": {
+        "de": "Fällen"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03b02",
+      "prefLabel": {
+        "de": "Rüsten"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03b03",
+      "prefLabel": {
+        "de": "Fuhre"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03b04",
+      "prefLabel": {
+        "de": "Flösser"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03b05",
+      "prefLabel": {
+        "de": "Köhler"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid03b06",
+      "prefLabel": {
+        "de": "Losholzet"
+      }
+    }
+  ],
   "broader": {
     "id": "https://example.org/brunnerid03",
     "prefLabel": {

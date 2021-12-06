@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Bäcker KP./General"
   },
+  "scopeNote": {
+    "de": "'/General' mit Bleistift geschrieben"
+  },
   "broader": {
     "id": "https://example.org/brunnerid10",
     "prefLabel": {
