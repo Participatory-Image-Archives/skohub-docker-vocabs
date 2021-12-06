@@ -6,6 +6,110 @@
   "prefLabel": {
     "de": "Land und Volk"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid08a",
+      "prefLabel": {
+        "de": "Bern"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08b",
+      "prefLabel": {
+        "de": "Luzern"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08c",
+      "prefLabel": {
+        "de": "Bünden"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08d",
+      "prefLabel": {
+        "de": "Wallis"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08e",
+      "prefLabel": {
+        "de": "Tessin"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08f",
+      "prefLabel": {
+        "de": "Schweiz"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08g",
+      "prefLabel": {
+        "de": "Uri"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08h",
+      "prefLabel": {
+        "de": "Schwyz"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08i",
+      "prefLabel": {
+        "de": "Unterwalden"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08j",
+      "prefLabel": {
+        "de": "Zug"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08k",
+      "prefLabel": {
+        "de": "Luzern"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08l",
+      "prefLabel": {
+        "de": "Solothurn"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08m",
+      "prefLabel": {
+        "de": "Fryburg"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08n",
+      "prefLabel": {
+        "de": "Waadt"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08o",
+      "prefLabel": {
+        "de": "Neuenburg"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08p",
+      "prefLabel": {
+        "de": "Genf"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08q",
+      "prefLabel": {
+        "de": "Jura"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
