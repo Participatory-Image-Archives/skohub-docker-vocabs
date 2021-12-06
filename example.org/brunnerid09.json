@@ -6,6 +6,104 @@
   "prefLabel": {
     "de": "Milieu"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid09a",
+      "prefLabel": {
+        "de": "Wohnung"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09b",
+      "prefLabel": {
+        "de": "Strasse"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09c",
+      "prefLabel": {
+        "de": "Familie"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09d",
+      "prefLabel": {
+        "de": "Reise"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09e",
+      "prefLabel": {
+        "de": "Kind"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09f",
+      "prefLabel": {
+        "de": "Schmuggler"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09g",
+      "prefLabel": {
+        "de": "Flüchtling"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09h",
+      "prefLabel": {
+        "de": "Wirtshaus"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09i",
+      "prefLabel": {
+        "de": "Hausierer"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09j",
+      "prefLabel": {
+        "de": "Unglück"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09k",
+      "prefLabel": {
+        "de": "Korberr"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09l",
+      "prefLabel": {
+        "de": "Verein"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09m",
+      "prefLabel": {
+        "de": "[unleserlich/durchgestrichen]"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09n",
+      "prefLabel": {
+        "de": "Zirkus"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09o",
+      "prefLabel": {
+        "de": "Ansalt"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid09p",
+      "prefLabel": {
+        "de": "#Texas*"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
