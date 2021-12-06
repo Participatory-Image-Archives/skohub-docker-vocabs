@@ -1108,11 +1108,116 @@ brunner:id12k a skos:Concept ;
 
 brunner:id13 a skos:Concept ;
   skos:prefLabel "Sacra"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id13a, brunner:id13b, brunner:id13c, brunner:id13d, brunner:id13e,
+                brunner:id13f, brunner:id13g, brunner:id13h .
+
+brunner:id13a a skos:Concept ;
+  skos:prefLabel "Friedhof A-N"@de ;
+  skos:scopeNote "'A-N' mit Bleistift geschrieben"@de ;
+  skos:related brunner:id13b ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id13 .
+
+brunner:id13b a skos:Concept ;
+  skos:prefLabel "Friedhof O-Z"@de ;
+  skos:scopeNote "'O-Z' mit Bleistift geschrieben"@de ;
+  skos:related brunner:id13a ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id13 .
+
+brunner:id13c a skos:Concept ;
+  skos:prefLabel "Kirche"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id13 .
+
+brunner:id13d a skos:Concept ;
+  skos:prefLabel "Stöckli"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id13 .
+
+brunner:id13e a skos:Concept ;
+  skos:prefLabel "Feldkreuz"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id13 .
+
+brunner:id13f a skos:Concept ;
+  skos:prefLabel "Gerät"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id13 .
+
+brunner:id13g a skos:Concept ;
+  skos:prefLabel "Bild"@de ;
+  skos:scopeNote "'Bild' mit Bleistift durchgestrichen" ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id13 .
+
+brunner:id13h a skos:Concept ;
+  skos:prefLabel "Kloster"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id13 .
 
 brunner:id14 a skos:Concept ;
   skos:prefLabel "Tier"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id14a, brunner:id14b, brunner:id14c, brunner:id14d, brunner:id14e,
+                brunner:id14f, brunner:id14g, brunner:id14h, brunner:id14i, brunner:id14j,
+                brunner:id14k .
+
+brunner:id14a a skos:Concept ;
+  skos:prefLabel "Vogel"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14b a skos:Concept ;
+  skos:prefLabel "Insekt"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14c a skos:Concept ;
+  skos:prefLabel "Wild"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14d a skos:Concept ;
+  skos:prefLabel "Fisch"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14e a skos:Concept ;
+  skos:prefLabel "Pferd"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14f a skos:Concept ;
+  skos:prefLabel "Hund"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14g a skos:Concept ;
+  skos:prefLabel "Schaf"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14h a skos:Concept ;
+  skos:prefLabel "Rind"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14i a skos:Concept ;
+  skos:prefLabel "Ziege"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14j a skos:Concept ;
+  skos:prefLabel "Katze"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14k a skos:Concept ;
+  skos:prefLabel "Schwein"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
 
 brunner:id15 a skos:Concept ;
   skos:prefLabel "Tür und Tor"@de ;
