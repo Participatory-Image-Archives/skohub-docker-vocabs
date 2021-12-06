@@ -539,7 +539,97 @@ brunner:id05 a skos:Concept ;
 
 brunner:id06 a skos:Concept ;
   skos:prefLabel "Ding"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id06a, brunner:id06b, brunner:id06c, brunner:id06d, brunner:id06e,
+                brunner:id06f, brunner:id06g, brunner:id06h, brunner:id06i, brunner:id06j,
+                brunner:id06k, brunner:id06l, brunner:id06m, brunner:id06n, brunner:id06o,
+                brunner:id06p, brunner:id06q .
+
+brunner:id06a a skos:Concept ;
+  skos:prefLabel "Schnee"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06b a skos:Concept ;
+  skos:prefLabel "Wasser"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06c a skos:Concept ;
+  skos:prefLabel "Wolke"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06d a skos:Concept ;
+  skos:prefLabel "Blume"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06e a skos:Concept ;
+  skos:prefLabel "Frucht"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06f a skos:Concept ;
+  skos:prefLabel "Stein"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06g a skos:Concept ;
+  skos:prefLabel "Holz"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06h a skos:Concept ;
+  skos:prefLabel "Schrift"@de ;
+  skos:scopeNote "Begriff, der wahrscheinlich nachträglich verwendet wurde"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06i a skos:Concept ;
+  skos:prefLabel "Technik"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06j a skos:Concept ;
+  skos:prefLabel "Plastik"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06k a skos:Concept ;
+  skos:prefLabel "Reproduktion"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06l a skos:Concept ;
+  skos:prefLabel "Nahrung"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06m a skos:Concept ;
+  skos:prefLabel "Haag"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06n a skos:Concept ;
+  skos:prefLabel "Denkzeichen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06o a skos:Concept ;
+  skos:prefLabel "Architektur"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06p a skos:Concept ;
+  skos:prefLabel "Schild"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
+
+brunner:id06q a skos:Concept ;
+  skos:prefLabel "Gerät"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id06 .
 
 brunner:id07 a skos:Concept ;
   skos:prefLabel "Haus und Sieldung"@de ;
