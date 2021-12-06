@@ -879,7 +879,91 @@ brunner:id08q a skos:Concept ;
 
 brunner:id09 a skos:Concept ;
   skos:prefLabel "Milieu"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:narrower brunner:id09a, brunner:id09b, brunner:id09c, brunner:id09d, brunner:id09e,
+                brunner:id09f, brunner:id09g, brunner:id09h, brunner:id09i, brunner:id09j,
+                brunner:id09k, brunner:id09l, brunner:id09m, brunner:id09n, brunner:id09o,
+                brunner:id09p .
+
+brunner:id09a a skos:Concept ;
+  skos:prefLabel "Wohnung"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09b a skos:Concept ;
+  skos:prefLabel "Strasse"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09c a skos:Concept ;
+  skos:prefLabel "Familie"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09d a skos:Concept ;
+  skos:prefLabel "Reise"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09e a skos:Concept ;
+  skos:prefLabel "Kind"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09f a skos:Concept ;
+  skos:prefLabel "Schmuggler"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09g a skos:Concept ;
+  skos:prefLabel "Flüchtling"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09h a skos:Concept ;
+  skos:prefLabel "Wirtshaus"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09i a skos:Concept ;
+  skos:prefLabel "Hausierer"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09j a skos:Concept ;
+  skos:prefLabel "Unglück"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09k a skos:Concept ;
+  skos:prefLabel "Korberr"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09l a skos:Concept ;
+  skos:prefLabel "Verein"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09m a skos:Concept ;
+  skos:prefLabel "[unleserlich/durchgestrichen]"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09n a skos:Concept ;
+  skos:prefLabel "Zirkus"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09o a skos:Concept ;
+  skos:prefLabel "Ansalt"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
+
+brunner:id09p a skos:Concept ;
+  skos:prefLabel "#Texas*"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id09 .
 
 brunner:id10 a skos:Concept ;
   skos:prefLabel "Militär"@de ;
