@@ -512,9 +512,10 @@ brunner:id04c a skos:Concept ;
   skos:broader brunner:id04 .
 
 brunner:id04d a skos:Concept ;
-  skos:prefLabel "Tessin"@de ;
+  skos:prefLabel "Termin"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id04 .
+  skos:broader brunner:id04 ;
+  skos:scopeNote "'Termin' handschriftlich (evtl. andere Schrift?)"@de .
 
 brunner:id04e a skos:Concept ;
   skos:prefLabel "Spiel"@de ;
