@@ -1,15 +1,15 @@
 {
-  "id": "https://example.org/brunnerid13h",
+  "id": "https://example.org/brunnerid05c",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid13h",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid13h",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid05c",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid05c",
   "prefLabel": {
-    "de": "Kloster"
+    "de": "Frankreich"
   },
   "broader": {
-    "id": "https://example.org/brunnerid13",
+    "id": "https://example.org/brunnerid05",
     "prefLabel": {
-      "de": "Sacra"
+      "de": "Deutschland, Belgien, Frankreich, Italien"
     }
   },
   "inScheme": {

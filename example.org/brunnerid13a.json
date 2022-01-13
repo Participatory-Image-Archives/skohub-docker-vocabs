@@ -7,7 +7,7 @@
     "de": "Friedhof A-N"
   },
   "scopeNote": {
-    "de": "'A-N' mit Bleistift geschrieben"
+    "de": "Getrennt in zwei Schachteln:'A-N' + 'O-Z' - mit Bleistift geschrieben"
   },
   "broader": {
     "id": "https://example.org/brunnerid13",
@@ -19,7 +19,7 @@
     {
       "id": "https://example.org/brunnerid13b",
       "prefLabel": {
-        "de": "Friedhof O-Z"
+        "de": "Kirche"
       }
     }
   ],

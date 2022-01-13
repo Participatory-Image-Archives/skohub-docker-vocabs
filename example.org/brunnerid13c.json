@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid13c",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid13c",
   "prefLabel": {
-    "de": "Kirche"
+    "de": "Stöckli"
   },
   "broader": {
     "id": "https://example.org/brunnerid13",

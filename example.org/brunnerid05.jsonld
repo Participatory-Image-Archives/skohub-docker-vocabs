@@ -6,6 +6,32 @@
   "prefLabel": {
     "de": "Deutschland, Belgien, Frankreich, Italien"
   },
+  "narrower": [
+    {
+      "id": "https://example.org/brunnerid05a",
+      "prefLabel": {
+        "de": "Deutschland"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid05b",
+      "prefLabel": {
+        "de": "Belgien"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid05c",
+      "prefLabel": {
+        "de": "Frankreich"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid05d",
+      "prefLabel": {
+        "de": "Italien"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {

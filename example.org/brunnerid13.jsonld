@@ -16,41 +16,35 @@
     {
       "id": "https://example.org/brunnerid13b",
       "prefLabel": {
-        "de": "Friedhof O-Z"
+        "de": "Kirche"
       }
     },
     {
       "id": "https://example.org/brunnerid13c",
       "prefLabel": {
-        "de": "Kirche"
+        "de": "Stöckli"
       }
     },
     {
       "id": "https://example.org/brunnerid13d",
       "prefLabel": {
-        "de": "Stöckli"
+        "de": "Feldkreuz"
       }
     },
     {
       "id": "https://example.org/brunnerid13e",
       "prefLabel": {
-        "de": "Feldkreuz"
+        "de": "Gerät"
       }
     },
     {
       "id": "https://example.org/brunnerid13f",
       "prefLabel": {
-        "de": "Gerät"
-      }
-    },
-    {
-      "id": "https://example.org/brunnerid13g",
-      "prefLabel": {
         "de": "Bild"
       }
     },
     {
-      "id": "https://example.org/brunnerid13h",
+      "id": "https://example.org/brunnerid13g",
       "prefLabel": {
         "de": "Kloster"
       }

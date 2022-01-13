@@ -4,10 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid13b",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid13b",
   "prefLabel": {
-    "de": "Friedhof O-Z"
-  },
-  "scopeNote": {
-    "de": "'O-Z' mit Bleistift geschrieben"
+    "de": "Kirche"
   },
   "broader": {
     "id": "https://example.org/brunnerid13",
