@@ -1138,7 +1138,7 @@ brunner:id13 a skos:Concept ;
                 brunner:id13f, brunner:id13g .
 
 brunner:id13a a skos:Concept ;
-  skos:prefLabel "Friedhof A-N"@de ;
+  skos:prefLabel "Friedhof"@de ;
   skos:scopeNote "Getrennt in zwei Schachteln:'A-N' + 'O-Z' - mit Bleistift geschrieben"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id13 .
