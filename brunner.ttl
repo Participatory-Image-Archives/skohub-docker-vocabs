@@ -550,7 +550,28 @@ brunner:id04j a skos:Concept ;
 brunner:id05 a skos:Concept ;
   skos:prefLabel "Deutschland, Belgien, Frankreich, Italien"@de ;
   skos:topConceptOf brunner: ;
+  skos:narrower brunner:id05a, brunner:id05b, brunner:id05c, brunner:id05d ;
   skos:scopeNote "Mit aufgeklebter Ettikette/Papier beschriftet (evtl. andere Handschrift?). Überklebt oder ausradiert: 'Anschreiben'" .
+
+brunner:id05a a skos:Concept ;
+  skos:prefLabel "Deutschland"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id05 .
+
+brunner:id05b a skos:Concept ;
+  skos:prefLabel "Belgien"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id05 .
+
+brunner:id05c a skos:Concept ;
+  skos:prefLabel "Frankreich"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id05 .
+
+brunner:id05d a skos:Concept ;
+  skos:prefLabel "Italien"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id05 .
 
 brunner:id06 a skos:Concept ;
   skos:prefLabel "Ding"@de ;
@@ -669,7 +690,8 @@ brunner:id07b a skos:Concept ;
 brunner:id07c a skos:Concept ;
   skos:prefLabel "Bern"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:id07 .
+  skos:broader brunner:id07 ;
+  skos:scopeNote "Getrennt in zwei Schachteln: 1 und 2" .
 
 brunner:id07d a skos:Concept ;
   skos:prefLabel "Uri"@de ;
@@ -950,7 +972,7 @@ brunner:id09l a skos:Concept ;
   skos:broader brunner:id09 .
 
 brunner:id09m a skos:Concept ;
-  skos:prefLabel "[unleserlich/durchgestrichen]"@de ;
+  skos:prefLabel "Hochzeit"@de ;
   skos:scopeNote "durchgestrichen: 'Hochzeit', Schachtel kaputt!"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id09 .
@@ -1113,49 +1135,42 @@ brunner:id13 a skos:Concept ;
   skos:prefLabel "Sacra"@de ;
   skos:topConceptOf brunner: ;
   skos:narrower brunner:id13a, brunner:id13b, brunner:id13c, brunner:id13d, brunner:id13e,
-                brunner:id13f, brunner:id13g, brunner:id13h .
+                brunner:id13f, brunner:id13g .
 
 brunner:id13a a skos:Concept ;
   skos:prefLabel "Friedhof A-N"@de ;
-  skos:scopeNote "'A-N' mit Bleistift geschrieben"@de ;
+  skos:scopeNote "Getrennt in zwei Schachteln:'A-N' + 'O-Z' - mit Bleistift geschrieben"@de ;
   skos:related brunner:id13b ;
   skos:inScheme brunner: ;
   skos:broader brunner:id13 .
 
 brunner:id13b a skos:Concept ;
-  skos:prefLabel "Friedhof O-Z"@de ;
-  skos:scopeNote "'O-Z' mit Bleistift geschrieben"@de ;
-  skos:related brunner:id13a ;
-  skos:inScheme brunner: ;
-  skos:broader brunner:id13 .
-
-brunner:id13c a skos:Concept ;
   skos:prefLabel "Kirche"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id13 .
 
-brunner:id13d a skos:Concept ;
+brunner:id13c a skos:Concept ;
   skos:prefLabel "Stöckli"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id13 .
 
-brunner:id13e a skos:Concept ;
+brunner:id13d a skos:Concept ;
   skos:prefLabel "Feldkreuz"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id13 .
 
-brunner:id13f a skos:Concept ;
+brunner:id13e a skos:Concept ;
   skos:prefLabel "Gerät"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id13 .
 
-brunner:id13g a skos:Concept ;
+brunner:id13f a skos:Concept ;
   skos:prefLabel "Bild"@de ;
   skos:scopeNote "'Bild' mit Bleistift durchgestrichen" ;
   skos:inScheme brunner: ;
   skos:broader brunner:id13 .
 
-brunner:id13h a skos:Concept ;
+brunner:id13g a skos:Concept ;
   skos:prefLabel "Kloster"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id13 .
@@ -1224,7 +1239,8 @@ brunner:id14k a skos:Concept ;
 
 brunner:id15 a skos:Concept ;
   skos:prefLabel "Tür und Tor"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:scopeNote "Getrennt in zwei Schachteln: 1 und 2".
 
 brunner:id16 a skos:Concept ;
   skos:prefLabel "Wald"@de ;
