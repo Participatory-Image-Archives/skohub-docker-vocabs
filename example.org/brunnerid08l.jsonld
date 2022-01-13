@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid08l",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid08l",
   "prefLabel": {
-    "de": "Solothurn"
+    "de": "Obwalden"
   },
   "scopeNote": {
-    "de": "leer (keine Abzüge)"
+    "de": "In der Schachtel Schweiz ohne: BE, GR, TI, VS"
   },
   "broader": {
     "id": "https://example.org/brunnerid08",
@@ -15,6 +15,14 @@
       "de": "Land und Volk"
     }
   },
+  "related": [
+    {
+      "id": "https://example.org/brunnerid08y",
+      "prefLabel": {
+        "de": "Unterwalden"
+      }
+    }
+  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {

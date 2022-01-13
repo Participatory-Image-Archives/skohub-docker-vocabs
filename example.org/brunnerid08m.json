@@ -4,15 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid08m",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid08m",
   "prefLabel": {
-    "de": "Fryburg"
-  },
-  "altLabel": {
-    "de": [
-      "Freiburg"
-    ]
+    "de": "Schaffhausen"
   },
   "scopeNote": {
-    "de": "leer (keine Abzüge)"
+    "de": "In der Schachtel Schweiz ohne: BE, GR, TI, VS"
   },
   "broader": {
     "id": "https://example.org/brunnerid08",

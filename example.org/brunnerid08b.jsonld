@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Luzern"
   },
+  "scopeNote": {
+    "de": "Begriff, der in einer anderen Schachtel vorhanden ist, die keine Abzüge hat."
+  },
   "broader": {
     "id": "https://example.org/brunnerid08",
     "prefLabel": {

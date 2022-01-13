@@ -40,73 +40,121 @@
     {
       "id": "https://example.org/brunnerid08f",
       "prefLabel": {
-        "de": "Schweiz"
+        "de": "Aargau"
       }
     },
     {
       "id": "https://example.org/brunnerid08g",
       "prefLabel": {
-        "de": "Uri"
+        "de": "Fryburg"
       }
     },
     {
       "id": "https://example.org/brunnerid08h",
       "prefLabel": {
-        "de": "Schwyz"
+        "de": "Glarus"
       }
     },
     {
       "id": "https://example.org/brunnerid08i",
       "prefLabel": {
-        "de": "Unterwalden"
+        "de": "Jura"
       }
     },
     {
       "id": "https://example.org/brunnerid08j",
       "prefLabel": {
-        "de": "Zug"
+        "de": "Neuenburg"
       }
     },
     {
       "id": "https://example.org/brunnerid08k",
       "prefLabel": {
-        "de": "Luzern"
+        "de": "Nidwalden"
       }
     },
     {
       "id": "https://example.org/brunnerid08l",
       "prefLabel": {
-        "de": "Solothurn"
+        "de": "Obwalden"
       }
     },
     {
       "id": "https://example.org/brunnerid08m",
       "prefLabel": {
-        "de": "Fryburg"
+        "de": "Schaffhausen"
       }
     },
     {
       "id": "https://example.org/brunnerid08n",
       "prefLabel": {
-        "de": "Waadt"
+        "de": "Schwyz"
       }
     },
     {
       "id": "https://example.org/brunnerid08o",
       "prefLabel": {
-        "de": "Neuenburg"
+        "de": "Solothurn"
       }
     },
     {
       "id": "https://example.org/brunnerid08p",
       "prefLabel": {
-        "de": "Genf"
+        "de": "St. Gallen"
       }
     },
     {
       "id": "https://example.org/brunnerid08q",
       "prefLabel": {
-        "de": "Jura"
+        "de": "Uri"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08r",
+      "prefLabel": {
+        "de": "Waadt"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08s",
+      "prefLabel": {
+        "de": "Zug"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08t",
+      "prefLabel": {
+        "de": "Zürich"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08u",
+      "prefLabel": {
+        "de": "Appenzell"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08v",
+      "prefLabel": {
+        "de": "Basel"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08w",
+      "prefLabel": {
+        "de": "Genf"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08x",
+      "prefLabel": {
+        "de": "Thurgau"
+      }
+    },
+    {
+      "id": "https://example.org/brunnerid08y",
+      "prefLabel": {
+        "de": "Unterwalden"
       }
     }
   ],

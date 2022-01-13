@@ -4,10 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid08f",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid08f",
   "prefLabel": {
-    "de": "Schweiz"
+    "de": "Aargau"
   },
   "scopeNote": {
-    "de": "ohne: BE, GR, TI, VS"
+    "de": "In der Schachtel Schweiz ohne: BE, GR, TI, VS"
   },
   "broader": {
     "id": "https://example.org/brunnerid08",

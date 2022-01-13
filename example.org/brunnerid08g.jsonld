@@ -4,10 +4,15 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid08g",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid08g",
   "prefLabel": {
-    "de": "Uri"
+    "de": "Fryburg"
+  },
+  "altLabel": {
+    "de": [
+      "Freiburg"
+    ]
   },
   "scopeNote": {
-    "de": "leer (keine Abzüge)"
+    "de": "In der Schachtel Schweiz ohne: BE, GR, TI, VS. Begriff, der in einer zweiten Schachtel vorhanden ist, die keine Abzüge hat."
   },
   "broader": {
     "id": "https://example.org/brunnerid08",
