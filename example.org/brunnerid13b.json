@@ -12,14 +12,6 @@
       "de": "Sacra"
     }
   },
-  "related": [
-    {
-      "id": "https://example.org/brunnerid13a",
-      "prefLabel": {
-        "de": "Friedhof A-N"
-      }
-    }
-  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {

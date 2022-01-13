@@ -15,14 +15,6 @@
       "de": "Sacra"
     }
   },
-  "related": [
-    {
-      "id": "https://example.org/brunnerid13b",
-      "prefLabel": {
-        "de": "Kirche"
-      }
-    }
-  ],
   "inScheme": {
     "id": "https://example.org/brunner",
     "title": {
