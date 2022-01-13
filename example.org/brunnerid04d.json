@@ -4,7 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid04d",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid04d",
   "prefLabel": {
-    "de": "Tessin"
+    "de": "Termin"
+  },
+  "scopeNote": {
+    "de": "'Termin' handschriftlich (evtl. andere Schrift?)"
   },
   "broader": {
     "id": "https://example.org/brunnerid04",
