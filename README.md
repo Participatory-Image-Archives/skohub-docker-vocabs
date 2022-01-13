@@ -5,3 +5,5 @@ The Ernst Brunner Thesaurus, created in the context of the Participatory Knowled
 ## GitHub Pages
 
 Every time a push is made to the repository a GitHub-workflow-action is triggered to publish the most recent vocabulary to the `gh-pages`-branch, which is used by GitHub pages. It spins up a Docker-Container made out the [SkoHub-Vocabs](https://github.com/hbz/skohub-vocabs)-tool. You can have a look at the Dockerfile [at this branch of skohub-vocabs](https://github.com/skohub-io/skohub-vocabs/tree/docker-gh-pages).
+
+The controlled vocabulary is published at https://participatory-image-archives.github.io/skohub-docker-vocabs/. 
