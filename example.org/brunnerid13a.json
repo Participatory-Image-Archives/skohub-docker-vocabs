@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid13a",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fexample.org%2Fbrunnerid13a",
   "prefLabel": {
-    "de": "Friedhof A-N"
+    "de": "Friedhof"
   },
   "scopeNote": {
     "de": "Getrennt in zwei Schachteln:'A-N' + 'O-Z' - mit Bleistift geschrieben"
