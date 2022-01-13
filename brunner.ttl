@@ -549,7 +549,8 @@ brunner:id04j a skos:Concept ;
 
 brunner:id05 a skos:Concept ;
   skos:prefLabel "Deutschland, Belgien, Frankreich, Italien"@de ;
-  skos:topConceptOf brunner: .
+  skos:topConceptOf brunner: ;
+  skos:scopeNote "Mit aufgeklebter Ettikette/Papier beschriftet (evtl. andere Handschrift?). Überklebt oder ausradiert: 'Anschreiben'" .
 
 brunner:id06 a skos:Concept ;
   skos:prefLabel "Ding"@de ;
