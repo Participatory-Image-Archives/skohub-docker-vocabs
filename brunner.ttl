@@ -668,7 +668,7 @@ brunner:id06q a skos:Concept ;
   skos:broader brunner:id06 .
 
 brunner:id07 a skos:Concept ;
-  skos:prefLabel "Haus und Sieldung"@de ;
+  skos:prefLabel "Haus und Siedlung"@de ;
   skos:topConceptOf brunner: ;
   skos:narrower brunner:id07a, brunner:id07b, brunner:id07c, brunner:id07d, brunner:id07e,
                 brunner:id07f, brunner:id07g, brunner:id07h, brunner:id07i, brunner:id07j,
