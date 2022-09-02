@@ -1,8 +1,8 @@
 {
   "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id07j",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid07j",
-  "inbox": "https://test.skohub.io/inbox?target=%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid07j",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid07j",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid07j",
   "prefLabel": {
     "de": "Solothurn"
   },
