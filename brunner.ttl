@@ -42,7 +42,7 @@ brunner:id03 a skos:Concept ;
   skos:topConceptOf brunner: ;
   skos:narrower brunner:id03a, brunner:id03b, brunner:id03c, brunner:id03d, brunner:id03e,
                 brunner:id03f, brunner:id03g, brunner:id03h, brunner:id03i, brunner:id03j,
-                brunner:id03k, brunner:id03l, brunner:id03m, brunner:id03n .
+                brunner:id03k, brunner:id03l, brunner:id03m, brunner:id03n, brunner:id03o .
 
 brunner:id03a a skos:Concept ;
   skos:prefLabel "Bauer"@de ;
@@ -234,6 +234,7 @@ brunner:id03b05 a skos:Concept ;
 
 brunner:id03b06 a skos:Concept ;
   skos:prefLabel "Losholzet"@de ;
+  skos:altLabel "Losholz"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03b .
 
@@ -308,7 +309,8 @@ brunner:id03n a skos:Concept ;
                 brunner:id03n21, brunner:id03n22, brunner:id03n23, brunner:id03n24, brunner:id03n25,
                 brunner:id03n26, brunner:id03n27, brunner:id03n28, brunner:id03n29, brunner:id03n30,
                 brunner:id03n31, brunner:id03n32, brunner:id03n33, brunner:id03n34, brunner:id03n35,
-                brunner:id03n36, brunner:id03n37 .
+                brunner:id03n36, brunner:id03n37, brunner:id03n38, brunner:id03n39, brunner:id03n40,
+                brunner:id03n41 .
 
 brunner:id03n01 a skos:Concept ;
   skos:prefLabel "Maurer"@de ;
@@ -447,12 +449,13 @@ brunner:id03n27 a skos:Concept ;
 
 brunner:id03n28 a skos:Concept ;
   skos:prefLabel "Schindelmacher"@de ;
+  skos:scopeNote "'Schindeln' ist auch als Begriff verwenden."@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03n .
 
 brunner:id03n29 a skos:Concept ;
   skos:prefLabel "Leitern-Macher"@de ;
-  skos:altLabel "Leitern"@de ;
+  skos:scopeNote "'Leitern' ist auch als Begriff verwenden."@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03n .
 
@@ -483,11 +486,13 @@ brunner:id03n34 a skos:Concept ;
 
 brunner:id03n35 a skos:Concept ;
   skos:prefLabel "Rechen-Macher"@de ;
+  skos:scopeNote "'Rechen' ist auch als Begriff verwenden."@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03n .
 
 brunner:id03n36 a skos:Concept ;
   skos:prefLabel "Holz-Schnitzer"@de ;
+  skos:altLabel "Holzschnitzer"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03n .
 
@@ -496,6 +501,34 @@ brunner:id03n37 a skos:Concept ;
   skos:scopeNote "andere Schrift?"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id03n .
+
+brunner:id03n38 a skos:Concept ;
+  skos:prefLabel "Kupferschmied"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03n .
+
+brunner:id03n39 a skos:Concept ;
+  skos:prefLabel "Mühlenrad-Bauen"@de ;
+  skos:scopeNote "andere Handschrift"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03n .
+
+brunner:id03n40 a skos:Concept ;
+  skos:prefLabel "Töpfer"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03n .
+
+brunner:id03n41 a skos:Concept ;
+  skos:prefLabel "Orgelbauer"@de ;
+  skos:scopeNote "andere Handschrift"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03n .
+
+brunner:id03o a skos:Concept ;
+  skos:prefLabel "Staumauer"@de ;
+  skos:scopeNote "andere Handschrift"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id03 .
 
 brunner:id04 a skos:Concept ;
   skos:prefLabel "Brauch"@de ;
