@@ -806,7 +806,7 @@ brunner:id07q a skos:Concept ;
   skos:broader brunner:id07 .
 
 brunner:id07r a skos:Concept ;
-  skos:prefLabel "Aarau"@de ;
+  skos:prefLabel "Aargau"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id07 .
 
@@ -1053,7 +1053,7 @@ brunner:id09j a skos:Concept ;
   skos:broader brunner:id09 .
 
 brunner:id09k a skos:Concept ;
-  skos:prefLabel "Korberr"@de ;
+  skos:prefLabel "Korber"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id09 .
 
@@ -1270,7 +1270,7 @@ brunner:id14 a skos:Concept ;
   skos:topConceptOf brunner: ;
   skos:narrower brunner:id14a, brunner:id14b, brunner:id14c, brunner:id14d, brunner:id14e,
                 brunner:id14f, brunner:id14g, brunner:id14h, brunner:id14i, brunner:id14j,
-                brunner:id14k .
+                brunner:id14k, brunner:id14l .
 
 brunner:id14a a skos:Concept ;
   skos:prefLabel "Vogel"@de ;
@@ -1324,6 +1324,12 @@ brunner:id14j a skos:Concept ;
 
 brunner:id14k a skos:Concept ;
   skos:prefLabel "Schwein"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:id14 .
+
+brunner:id14l a skos:Concept ;
+  skos:prefLabel "Amphibium"@de ;
+  skos:scopeNote "durchgestrichen"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:id14 .
 
