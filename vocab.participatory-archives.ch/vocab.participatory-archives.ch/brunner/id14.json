@@ -72,6 +72,12 @@
       "prefLabel": {
         "de": "Schwein"
       }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id14l",
+      "prefLabel": {
+        "de": "Amphibium"
+      }
     }
   ],
   "inScheme": {

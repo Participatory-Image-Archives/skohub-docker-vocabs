@@ -1,15 +1,18 @@
 {
-  "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id09k",
+  "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id14l",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid09k",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid09k",
+  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid14l",
+  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid14l",
   "prefLabel": {
-    "de": "Korber"
+    "de": "Amphibium"
+  },
+  "scopeNote": {
+    "de": "durchgestrichen"
   },
   "broader": {
-    "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id09",
+    "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id14",
     "prefLabel": {
-      "de": "Milieu"
+      "de": "Tier"
     }
   },
   "inScheme": {
