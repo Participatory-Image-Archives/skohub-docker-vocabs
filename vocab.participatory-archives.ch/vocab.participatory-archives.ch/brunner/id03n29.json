@@ -4,7 +4,12 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n29",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n29",
   "prefLabel": {
-    "de": "Schindelmacher"
+    "de": "Leitern-Macher"
+  },
+  "altLabel": {
+    "de": [
+      "Leitern"
+    ]
   },
   "broader": {
     "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n",

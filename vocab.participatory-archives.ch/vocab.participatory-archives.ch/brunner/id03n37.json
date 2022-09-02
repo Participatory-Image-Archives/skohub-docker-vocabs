@@ -4,7 +4,10 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n37",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n37",
   "prefLabel": {
-    "de": "Holz-Schnitzer"
+    "de": "Klavierbauer"
+  },
+  "scopeNote": {
+    "de": "andere Schrift?"
   },
   "broader": {
     "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n",

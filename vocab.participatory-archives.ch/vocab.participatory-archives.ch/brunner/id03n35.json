@@ -4,7 +4,7 @@
   "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n35",
   "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n35",
   "prefLabel": {
-    "de": "Korber"
+    "de": "Rechen-Macher"
   },
   "broader": {
     "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n",

@@ -162,6 +162,18 @@
       "prefLabel": {
         "de": "Korn"
       }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03a27",
+      "prefLabel": {
+        "de": "Dörren"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03a28",
+      "prefLabel": {
+        "de": "Honig"
+      }
     }
   ],
   "broader": {
