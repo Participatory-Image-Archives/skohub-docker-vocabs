@@ -1,5 +1,5 @@
 @prefix dct: <http://purl.org/dc/terms/> .
-@prefix brunner: <https://vocab.participatory-archives.ch/brunner/> .
+@prefix brunner: <https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix schema: <http://schema.org/> .
@@ -10,7 +10,7 @@ brunner: a skos:ConceptScheme ;
   dct:title "Ernst Brunner Thesaurus"@de ;
   dct:creator _:author1 , _:author2 ;
   dct:created "2021-11-30"^^xsd:date ;
-  dct:modified "2021-12-06"^^xsd:date ;
+  dct:modified "2022-09-02"^^xsd:date ;
   dct:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
   skos:hasTopConcept
     brunner:id01, brunner:id02, brunner:id03, brunner:id04, brunner:id05,
