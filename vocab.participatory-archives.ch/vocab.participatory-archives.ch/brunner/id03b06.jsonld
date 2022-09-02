@@ -6,6 +6,11 @@
   "prefLabel": {
     "de": "Losholzet"
   },
+  "altLabel": {
+    "de": [
+      "Losholz"
+    ]
+  },
   "broader": {
     "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03b",
     "prefLabel": {

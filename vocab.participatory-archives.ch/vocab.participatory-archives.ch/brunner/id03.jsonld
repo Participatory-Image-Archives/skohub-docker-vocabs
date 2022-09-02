@@ -90,6 +90,12 @@
       "prefLabel": {
         "de": "Gewerbe"
       }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03o",
+      "prefLabel": {
+        "de": "Staumauer"
+      }
     }
   ],
   "inScheme": {

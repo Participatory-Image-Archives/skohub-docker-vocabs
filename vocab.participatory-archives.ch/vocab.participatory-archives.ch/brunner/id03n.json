@@ -228,6 +228,30 @@
       "prefLabel": {
         "de": "Klavierbauer"
       }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n38",
+      "prefLabel": {
+        "de": "Kupferschmied"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n39",
+      "prefLabel": {
+        "de": "Mühlenrad-Bauen"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n40",
+      "prefLabel": {
+        "de": "Töpfer"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n41",
+      "prefLabel": {
+        "de": "Orgelbauer"
+      }
     }
   ],
   "broader": {

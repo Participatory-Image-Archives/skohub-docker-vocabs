@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Schindelmacher"
   },
+  "scopeNote": {
+    "de": "'Schindeln' ist auch als Begriff verwenden."
+  },
   "broader": {
     "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n",
     "prefLabel": {

@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Rechen-Macher"
   },
+  "scopeNote": {
+    "de": "'Rechen' ist auch als Begriff verwenden."
+  },
   "broader": {
     "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n",
     "prefLabel": {
