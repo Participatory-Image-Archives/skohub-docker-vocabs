@@ -35,7 +35,7 @@ jobs:
 
       - name: make .env.production file
 
-        run: echo "BASEURL=/vocab.participatory-archives.ch" > .env.production
+        run: echo "BASEURL=/" > .env.production
 
       - name: build public dir with docker image
         run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data:/app/data -v $(pwd)/.env.production:/app/.env.production skohub/skohub-vocabs-docker:latest
