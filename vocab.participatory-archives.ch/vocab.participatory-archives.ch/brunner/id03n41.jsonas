@@ -1,12 +1,12 @@
 {
-  "id": "https://test.skohub.io/skohub-docker-vocabs/vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n41",
+  "id": "https://test.skohub.io/vocab.participatory-archives.ch/vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n41",
   "type": "Service",
-  "preferredUsername": "736b6f6875622d646f636b65722d766f636162732f766f6361622e706172746963697061746f72792d61726368697665732e63682f766f6361622e706172746963697061746f72792d61726368697665732e63682f6272756e6e65722f696430336e3431",
-  "inbox": "https://test.skohub.io/inbox?target=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n41",
-  "followers": "https://test.skohub.io/followers?subject=skohub-docker-vocabs%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n41",
+  "preferredUsername": "766f6361622e706172746963697061746f72792d61726368697665732e63682f766f6361622e706172746963697061746f72792d61726368697665732e63682f766f6361622e706172746963697061746f72792d61726368697665732e63682f6272756e6e65722f696430336e3431",
+  "inbox": "https://test.skohub.io/inbox?target=vocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n41",
+  "followers": "https://test.skohub.io/followers?subject=vocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n41",
   "publicKey": {
-    "id": "https://test.skohub.io/skohub-docker-vocabs/vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n41#main-key",
-    "owner": "https://test.skohub.io/skohub-docker-vocabs/vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n41",
+    "id": "https://test.skohub.io/vocab.participatory-archives.ch/vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n41#main-key",
+    "owner": "https://test.skohub.io/vocab.participatory-archives.ch/vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03n41",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
   },
   "@context": [
