@@ -1,0 +1,216 @@
+{
+  "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid06",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid06",
+  "prefLabel": {
+    "de": "Ding"
+  },
+  "narrower": [
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06a",
+      "prefLabel": {
+        "de": "Schnee"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06b",
+      "prefLabel": {
+        "de": "Wasser"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06c",
+      "prefLabel": {
+        "de": "Wolke"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06d",
+      "prefLabel": {
+        "de": "Blume"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06e",
+      "prefLabel": {
+        "de": "Frucht"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06f",
+      "prefLabel": {
+        "de": "Stein"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06g",
+      "prefLabel": {
+        "de": "Holz"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06h",
+      "prefLabel": {
+        "de": "Schrift"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06i",
+      "prefLabel": {
+        "de": "Technik"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06j",
+      "prefLabel": {
+        "de": "Plastik"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06k",
+      "prefLabel": {
+        "de": "Reproduktion"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06l",
+      "prefLabel": {
+        "de": "Nahrung"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06m",
+      "prefLabel": {
+        "de": "Haag"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06n",
+      "prefLabel": {
+        "de": "Denkzeichen"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06o",
+      "prefLabel": {
+        "de": "Architektur"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06p",
+      "prefLabel": {
+        "de": "Schild"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id06q",
+      "prefLabel": {
+        "de": "Gerät"
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/",
+    "title": {
+      "de": "Ernst Brunner Thesaurus"
+    }
+  },
+  "topConceptOf": {
+    "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}
