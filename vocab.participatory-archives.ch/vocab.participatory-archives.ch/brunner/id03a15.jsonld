@@ -1,8 +1,8 @@
 {
   "id": "https://vocab.participatory-archives.ch/vocab.participatory-archives.ch/brunner/id03a15",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=vocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03a15",
-  "inbox": "https://test.skohub.io/inbox?target=vocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03a15",
+  "followers": "https://test.skohub.io/followers?subject=%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03a15",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fvocab.participatory-archives.ch%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03a15",
   "prefLabel": {
     "de": "Düngen"
   },
