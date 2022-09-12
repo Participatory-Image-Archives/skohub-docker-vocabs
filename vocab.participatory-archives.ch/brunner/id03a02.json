@@ -1,8 +1,8 @@
 {
   "id": "https://vocab.participatory-archives.ch/brunner/id03a02",
   "type": "Concept",
-  "followers": "https://test.skohub.io/followers?subject=ocab.participatory-archives.ch%2F%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03a02",
-  "inbox": "https://test.skohub.io/inbox?target=ocab.participatory-archives.ch%2F%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03a02",
+  "followers": "https://test.skohub.io/followers?subject=%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03a02",
+  "inbox": "https://test.skohub.io/inbox?target=%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03a02",
   "prefLabel": {
     "de": "Heu"
   },
