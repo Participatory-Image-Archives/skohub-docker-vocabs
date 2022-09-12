@@ -1,0 +1,363 @@
+{
+  "id": "https://vocab.participatory-archives.ch/brunner/id03n",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=ocab.participatory-archives.ch%2F%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n",
+  "inbox": "https://test.skohub.io/inbox?target=ocab.participatory-archives.ch%2F%2Fvocab.participatory-archives.ch%2Fbrunner%2Fid03n",
+  "prefLabel": {
+    "de": "Gewerbe"
+  },
+  "narrower": [
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n01",
+      "prefLabel": {
+        "de": "Maurer"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n02",
+      "prefLabel": {
+        "de": "Dachdecker"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n03",
+      "prefLabel": {
+        "de": "Maler"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n04",
+      "prefLabel": {
+        "de": "Schlosser"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n05",
+      "prefLabel": {
+        "de": "Kesselschmied"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n06",
+      "prefLabel": {
+        "de": "Wagenschmied"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n07",
+      "prefLabel": {
+        "de": "Hufschmied"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n08",
+      "prefLabel": {
+        "de": "Müller"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n09",
+      "prefLabel": {
+        "de": "Metzger"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n10",
+      "prefLabel": {
+        "de": "Bäcker"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n11",
+      "prefLabel": {
+        "de": "Fischer"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n12",
+      "prefLabel": {
+        "de": "Käser"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n13",
+      "prefLabel": {
+        "de": "Gerber"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n14",
+      "prefLabel": {
+        "de": "Schuster"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n15",
+      "prefLabel": {
+        "de": "Weber"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n16",
+      "prefLabel": {
+        "de": "Seiler"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n17",
+      "prefLabel": {
+        "de": "Sticker"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n18",
+      "prefLabel": {
+        "de": "Sackdrucker"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n19",
+      "prefLabel": {
+        "de": "Kesselflicker"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n20",
+      "prefLabel": {
+        "de": "Beckihefter"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n21",
+      "prefLabel": {
+        "de": "Seifensieder"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n22",
+      "prefLabel": {
+        "de": "Strahler"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n23",
+      "prefLabel": {
+        "de": "Bürstenbinder"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n24",
+      "prefLabel": {
+        "de": "Scherenschneider"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n25",
+      "prefLabel": {
+        "de": "Säger"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n26",
+      "prefLabel": {
+        "de": "Zimmermann"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n27",
+      "prefLabel": {
+        "de": "Schreiner"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n28",
+      "prefLabel": {
+        "de": "Schindelmacher"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n29",
+      "prefLabel": {
+        "de": "Leitern-Macher"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n30",
+      "prefLabel": {
+        "de": "Spanschachteln-Macher"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n31",
+      "prefLabel": {
+        "de": "Geigenbauer"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n32",
+      "prefLabel": {
+        "de": "Küfer"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n33",
+      "prefLabel": {
+        "de": "Wagner"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n34",
+      "prefLabel": {
+        "de": "Korber"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n35",
+      "prefLabel": {
+        "de": "Rechen-Macher"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n36",
+      "prefLabel": {
+        "de": "Holz-Schnitzer"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n37",
+      "prefLabel": {
+        "de": "Klavierbauer"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n38",
+      "prefLabel": {
+        "de": "Kupferschmied"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n39",
+      "prefLabel": {
+        "de": "Mühlenrad-Bauen"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n40",
+      "prefLabel": {
+        "de": "Töpfer"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/id03n41",
+      "prefLabel": {
+        "de": "Orgelbauer"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://vocab.participatory-archives.ch/brunner/id03",
+    "prefLabel": {
+      "de": "Arbeit"
+    }
+  },
+  "inScheme": {
+    "id": "https://vocab.participatory-archives.ch/brunner/",
+    "title": {
+      "de": "Ernst Brunner Thesaurus"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}
