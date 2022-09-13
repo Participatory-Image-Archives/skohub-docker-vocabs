@@ -6,6 +6,32 @@
   "prefLabel": {
     "de": "Maske"
   },
+  "narrower": [
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/04n01",
+      "prefLabel": {
+        "de": "Gräuflet"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/04n02",
+      "prefLabel": {
+        "de": "6. Januar"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/04n03",
+      "prefLabel": {
+        "de": "Nüsslet"
+      }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/04n04",
+      "prefLabel": {
+        "de": "Fasnacht"
+      }
+    }
+  ],
   "broader": {
     "id": "https://vocab.participatory-archives.ch/brunner/04",
     "prefLabel": {

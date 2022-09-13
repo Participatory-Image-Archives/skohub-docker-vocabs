@@ -72,6 +72,12 @@
       "prefLabel": {
         "de": "Strasse"
       }
+    },
+    {
+      "id": "https://vocab.participatory-archives.ch/brunner/12l",
+      "prefLabel": {
+        "de": "Skifahren"
+      }
     }
   ],
   "inScheme": {

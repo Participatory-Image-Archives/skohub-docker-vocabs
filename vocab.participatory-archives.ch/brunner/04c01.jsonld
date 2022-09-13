@@ -6,6 +6,9 @@
   "prefLabel": {
     "de": "Alp-Abfahrt"
   },
+  "scopeNote": {
+    "de": "Vermutlich nicht von Ernst Brunner erstellt (kommt wahrscheinlich von Loosli)."
+  },
   "broader": {
     "id": "https://vocab.participatory-archives.ch/brunner/04c",
     "prefLabel": {
