@@ -556,17 +556,20 @@ brunner:04c a skos:Concept ;
 brunner:04c01 a skos:Concept ;
   skos:prefLabel "Alp-Abfahrt"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:04c .
+  skos:broader brunner:04c ;
+  skos:scopeNote "Vermutlich nicht von Ernst Brunner erstellt (kommt wahrscheinlich von Loosli)."@de .
 
 brunner:04c02 a skos:Concept ;
   skos:prefLabel "Käse"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:04c .
+  skos:broader brunner:04c ;
+  skos:scopeNote "Vermutlich nicht von Ernst Brunner erstellt (kommt wahrscheinlich von Loosli)."@de .
 
 brunner:04c03 a skos:Concept ;
   skos:prefLabel "Kuhkämpfe"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:04c .
+  skos:broader brunner:04c ;
+  skos:scopeNote "Vermutlich nicht von Ernst Brunner erstellt (kommt wahrscheinlich von Loosli)."@de .
 
 brunner:04d a skos:Concept ;
   skos:prefLabel "Termin"@de ;
@@ -623,7 +626,28 @@ brunner:04m a skos:Concept ;
 brunner:04n a skos:Concept ;
   skos:prefLabel "Maske"@de ;
   skos:inScheme brunner: ;
-  skos:broader brunner:04 .
+  skos:broader brunner:04 ;
+  skos:narrower brunner:04n01, brunner:04n02, brunner:04n03, brunner:04n04 .
+
+brunner:04n01 a skos:Concept ;
+  skos:prefLabel "Gräuflet"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:04n .
+
+brunner:04n02 a skos:Concept ;
+  skos:prefLabel "6. Januar"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:04n .
+
+brunner:04n03 a skos:Concept ;
+  skos:prefLabel "Nüsslet"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:04n .
+
+brunner:04n04 a skos:Concept ;
+  skos:prefLabel "Fasnacht"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:04n .
 
 brunner:05 a skos:Concept ;
   skos:prefLabel "Deutschland, Belgien, Frankreich, Italien"@de ;
@@ -1260,6 +1284,12 @@ brunner:12k a skos:Concept ;
   skos:prefLabel "Strasse"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:12 .
+
+brunner:12l a skos:Concept ;
+  skos:prefLabel "Skifahren"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:12 ;
+  skos:scopeNote "Vermutlich nicht von Ernst Brunner erstellt (kommt wahrscheinlich von Loosli)."@de .
 
 brunner:13 a skos:Concept ;
   skos:prefLabel "Sacra"@de ;
