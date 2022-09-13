@@ -627,25 +627,15 @@ brunner:04n a skos:Concept ;
   skos:prefLabel "Maske"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:04 ;
-  skos:narrower brunner:04n01, brunner:04n02, brunner:04n03, brunner:04n04 .
+  skos:narrower brunner:04n01, brunner:04n02 .
 
 brunner:04n01 a skos:Concept ;
-  skos:prefLabel "Gräuflet"@de ;
+  skos:prefLabel "Gräuflet - 6. Januar"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:04n .
 
 brunner:04n02 a skos:Concept ;
-  skos:prefLabel "6. Januar"@de ;
-  skos:inScheme brunner: ;
-  skos:broader brunner:04n .
-
-brunner:04n03 a skos:Concept ;
-  skos:prefLabel "Nüsslet"@de ;
-  skos:inScheme brunner: ;
-  skos:broader brunner:04n .
-
-brunner:04n04 a skos:Concept ;
-  skos:prefLabel "Fasnacht"@de ;
+  skos:prefLabel "Nüsslet - Fasnacht"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:04n .
 
