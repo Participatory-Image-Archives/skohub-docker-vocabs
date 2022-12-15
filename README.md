@@ -6,5 +6,5 @@ Every time a push is made to the repository a GitHub-workflow-action is triggere
 
 ## Ernst Brunner Thesaurus
 
-The Ernst Brunner Thesaurus is published at https://vocab.participatory-archives.ch/brunner/. 
+The Ernst Brunner Thesaurus is published at https://n2t.net/ark:/19156/tkt42. 
 
