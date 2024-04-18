@@ -1141,7 +1141,7 @@ brunner:10 a skos:Concept ;
   skos:topConceptOf brunner: ;
   skos:narrower brunner:10a, brunner:10b, brunner:10c, brunner:10d, brunner:10e,
                 brunner:10f, brunner:10g, brunner:10h, brunner:10i, brunner:10j,
-                brunner:10k, brunner:10l, brunner:10m .
+                brunner:10k, brunner:10l, brunner:10m, brunner:10n .
 
 brunner:10a a skos:Concept ;
   skos:prefLabel "Flab-Batterie 311"@de ;
@@ -1164,8 +1164,7 @@ brunner:10d a skos:Concept ;
   skos:broader brunner:10 .
 
 brunner:10e a skos:Concept ;
-  skos:prefLabel "Bäcker KP./General"@de ;
-  skos:scopeNote "'/General' mit Bleistift geschrieben"@de ;
+  skos:prefLabel "Bäcker KP"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:10 .
 
@@ -1185,17 +1184,17 @@ brunner:10h a skos:Concept ;
   skos:broader brunner:10 .
 
 brunner:10i a skos:Concept ;
-  skos:prefLabel "Aushebg."@de ;
+  skos:prefLabel "Aushebung"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:10 .
 
 brunner:10j a skos:Concept ;
-  skos:prefLabel "Skiekurs"@de ;
+  skos:prefLabel "Ski-Kurs"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:10 .
 
 brunner:10k a skos:Concept ;
-  skos:prefLabel "Mobilisat."@de ;
+  skos:prefLabel "Mobilisation"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:10 .
 
@@ -1206,6 +1205,11 @@ brunner:10l a skos:Concept ;
 
 brunner:10m a skos:Concept ;
   skos:prefLabel "Det. Göschenen"@de ;
+  skos:inScheme brunner: ;
+  skos:broader brunner:10 .
+
+brunner:10n a skos:Concept ;
+  skos:prefLabel "General"@de ;
   skos:inScheme brunner: ;
   skos:broader brunner:10 .
 
